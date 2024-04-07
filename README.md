@@ -1,3 +1,3 @@
 # FibonacciJS
-##Description
+-Description
 Just Quick Fibonazzi drill using JS
